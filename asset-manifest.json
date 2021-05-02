@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ca0c9ed.chunk.css",
+    "main.js": "/static/js/main.8e21deba.chunk.js",
+    "main.js.map": "/static/js/main.8e21deba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0438922.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0438922.js.map",
+    "static/css/2.f78674c2.chunk.css": "/static/css/2.f78674c2.chunk.css",
+    "static/js/2.7a0157e3.chunk.js": "/static/js/2.7a0157e3.chunk.js",
+    "static/js/2.7a0157e3.chunk.js.map": "/static/js/2.7a0157e3.chunk.js.map",
+    "static/js/3.4120a572.chunk.js": "/static/js/3.4120a572.chunk.js",
+    "static/js/3.4120a572.chunk.js.map": "/static/js/3.4120a572.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f78674c2.chunk.css.map": "/static/css/2.f78674c2.chunk.css.map",
+    "static/css/main.0ca0c9ed.chunk.css.map": "/static/css/main.0ca0c9ed.chunk.css.map",
+    "static/js/2.7a0157e3.chunk.js.LICENSE.txt": "/static/js/2.7a0157e3.chunk.js.LICENSE.txt",
+    "static/media/angular.fd6da4cc.png": "/static/media/angular.fd6da4cc.png",
+    "static/media/App.css": "/static/media/header.c3fa9cad.jpg",
+    "static/media/css3.a2fe8f1a.png": "/static/media/css3.a2fe8f1a.png",
+    "static/media/elmaderero.8a6daa5a.jpg": "/static/media/elmaderero.8a6daa5a.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/html.b37d108c.png": "/static/media/html.b37d108c.png",
+    "static/media/impresion-digital.469afe38.jpg": "/static/media/impresion-digital.469afe38.jpg",
+    "static/media/javascript.07a06c9a.png": "/static/media/javascript.07a06c9a.png",
+    "static/media/nettside.a55b97bd.jpg": "/static/media/nettside.a55b97bd.jpg",
+    "static/media/nodejs.5634dc57.png": "/static/media/nodejs.5634dc57.png",
+    "static/media/php.710bda34.png": "/static/media/php.710bda34.png",
+    "static/media/react.764a9ea2.png": "/static/media/react.764a9ea2.png",
+    "static/media/sicoain-meanstack.d86d7f68.jpg": "/static/media/sicoain-meanstack.d86d7f68.jpg",
+    "static/media/sicoain.1d13492d.jpg": "/static/media/sicoain.1d13492d.jpg",
+    "static/media/smarthome.db328735.jpg": "/static/media/smarthome.db328735.jpg",
+    "static/media/wordpress.e4628cad.png": "/static/media/wordpress.e4628cad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0438922.js",
+    "static/css/2.f78674c2.chunk.css",
+    "static/js/2.7a0157e3.chunk.js",
+    "static/css/main.0ca0c9ed.chunk.css",
+    "static/js/main.8e21deba.chunk.js"
+  ]
+}
