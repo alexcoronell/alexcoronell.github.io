@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b09f4901.chunk.css",
-    "main.js": "/static/js/main.c944aadc.chunk.js",
-    "main.js.map": "/static/js/main.c944aadc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c0438922.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c0438922.js.map",
+    "main.css": "/static/css/main.eb4a225a.chunk.css",
+    "main.js": "/static/js/main.0b9c8890.chunk.js",
+    "main.js.map": "/static/js/main.0b9c8890.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b629c718.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b629c718.js.map",
     "static/css/2.f78674c2.chunk.css": "/static/css/2.f78674c2.chunk.css",
-    "static/js/2.7a0157e3.chunk.js": "/static/js/2.7a0157e3.chunk.js",
-    "static/js/2.7a0157e3.chunk.js.map": "/static/js/2.7a0157e3.chunk.js.map",
-    "static/js/3.4120a572.chunk.js": "/static/js/3.4120a572.chunk.js",
-    "static/js/3.4120a572.chunk.js.map": "/static/js/3.4120a572.chunk.js.map",
+    "static/js/2.add0e706.chunk.js": "/static/js/2.add0e706.chunk.js",
+    "static/js/2.add0e706.chunk.js.map": "/static/js/2.add0e706.chunk.js.map",
+    "static/js/3.fbf2e7ad.chunk.js": "/static/js/3.fbf2e7ad.chunk.js",
+    "static/js/3.fbf2e7ad.chunk.js.map": "/static/js/3.fbf2e7ad.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f78674c2.chunk.css.map": "/static/css/2.f78674c2.chunk.css.map",
-    "static/css/main.b09f4901.chunk.css.map": "/static/css/main.b09f4901.chunk.css.map",
-    "static/js/2.7a0157e3.chunk.js.LICENSE.txt": "/static/js/2.7a0157e3.chunk.js.LICENSE.txt",
+    "static/css/main.eb4a225a.chunk.css.map": "/static/css/main.eb4a225a.chunk.css.map",
+    "static/js/2.add0e706.chunk.js.LICENSE.txt": "/static/js/2.add0e706.chunk.js.LICENSE.txt",
     "static/media/angular.fd6da4cc.png": "/static/media/angular.fd6da4cc.png",
     "static/media/App.css": "/static/media/header.c3fa9cad.jpg",
     "static/media/css3.a2fe8f1a.png": "/static/media/css3.a2fe8f1a.png",
@@ -33,10 +33,10 @@
     "static/media/wordpress.e4628cad.png": "/static/media/wordpress.e4628cad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0438922.js",
+    "static/js/runtime-main.b629c718.js",
     "static/css/2.f78674c2.chunk.css",
-    "static/js/2.7a0157e3.chunk.js",
-    "static/css/main.b09f4901.chunk.css",
-    "static/js/main.c944aadc.chunk.js"
+    "static/js/2.add0e706.chunk.js",
+    "static/css/main.eb4a225a.chunk.css",
+    "static/js/main.0b9c8890.chunk.js"
   ]
 }
