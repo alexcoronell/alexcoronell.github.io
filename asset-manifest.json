@@ -1,36 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.eb4a225a.chunk.css",
-    "main.js": "/static/js/main.e7cd126b.chunk.js",
-    "main.js.map": "/static/js/main.e7cd126b.chunk.js.map",
+    "main.js": "/static/js/main.b2686ef1.chunk.js",
+    "main.js.map": "/static/js/main.b2686ef1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b629c718.js",
     "runtime-main.js.map": "/static/js/runtime-main.b629c718.js.map",
     "static/css/2.f78674c2.chunk.css": "/static/css/2.f78674c2.chunk.css",
-    "static/js/2.bfe56b90.chunk.js": "/static/js/2.bfe56b90.chunk.js",
-    "static/js/2.bfe56b90.chunk.js.map": "/static/js/2.bfe56b90.chunk.js.map",
+    "static/js/2.5a6bcbf5.chunk.js": "/static/js/2.5a6bcbf5.chunk.js",
+    "static/js/2.5a6bcbf5.chunk.js.map": "/static/js/2.5a6bcbf5.chunk.js.map",
     "static/js/3.fbf2e7ad.chunk.js": "/static/js/3.fbf2e7ad.chunk.js",
     "static/js/3.fbf2e7ad.chunk.js.map": "/static/js/3.fbf2e7ad.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f78674c2.chunk.css.map": "/static/css/2.f78674c2.chunk.css.map",
     "static/css/main.eb4a225a.chunk.css.map": "/static/css/main.eb4a225a.chunk.css.map",
-    "static/js/2.bfe56b90.chunk.js.LICENSE.txt": "/static/js/2.bfe56b90.chunk.js.LICENSE.txt",
-    "static/media/angular.fd6da4cc.png": "/static/media/angular.fd6da4cc.png",
+    "static/js/2.5a6bcbf5.chunk.js.LICENSE.txt": "/static/js/2.5a6bcbf5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/header.c3fa9cad.jpg",
-    "static/media/css3.a2fe8f1a.png": "/static/media/css3.a2fe8f1a.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/html.b37d108c.png": "/static/media/html.b37d108c.png",
-    "static/media/javascript.07a06c9a.png": "/static/media/javascript.07a06c9a.png",
-    "static/media/nodejs.5634dc57.png": "/static/media/nodejs.5634dc57.png",
-    "static/media/php.710bda34.png": "/static/media/php.710bda34.png",
-    "static/media/react.6ce24c58.svg": "/static/media/react.6ce24c58.svg",
-    "static/media/react.764a9ea2.png": "/static/media/react.764a9ea2.png",
-    "static/media/wordpress.e4628cad.png": "/static/media/wordpress.e4628cad.png"
+    "static/media/react.6ce24c58.svg": "/static/media/react.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b629c718.js",
     "static/css/2.f78674c2.chunk.css",
-    "static/js/2.bfe56b90.chunk.js",
+    "static/js/2.5a6bcbf5.chunk.js",
     "static/css/main.eb4a225a.chunk.css",
-    "static/js/main.e7cd126b.chunk.js"
+    "static/js/main.b2686ef1.chunk.js"
   ]
 }
