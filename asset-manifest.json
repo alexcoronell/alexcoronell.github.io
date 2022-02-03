@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.99e3fda0.chunk.css",
-    "main.js": "/static/js/main.90d6ccdb.chunk.js",
-    "main.js.map": "/static/js/main.90d6ccdb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44be3dd9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44be3dd9.js.map",
+    "main.js": "/static/js/main.d35f1022.chunk.js",
+    "main.js.map": "/static/js/main.d35f1022.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a9694654.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a9694654.js.map",
     "static/css/2.f78674c2.chunk.css": "/static/css/2.f78674c2.chunk.css",
-    "static/js/2.182a8df8.chunk.js": "/static/js/2.182a8df8.chunk.js",
-    "static/js/2.182a8df8.chunk.js.map": "/static/js/2.182a8df8.chunk.js.map",
-    "static/js/3.4468abd0.chunk.js": "/static/js/3.4468abd0.chunk.js",
-    "static/js/3.4468abd0.chunk.js.map": "/static/js/3.4468abd0.chunk.js.map",
+    "static/js/2.0fcddad4.chunk.js": "/static/js/2.0fcddad4.chunk.js",
+    "static/js/2.0fcddad4.chunk.js.map": "/static/js/2.0fcddad4.chunk.js.map",
+    "static/js/3.e5c77fd1.chunk.js": "/static/js/3.e5c77fd1.chunk.js",
+    "static/js/3.e5c77fd1.chunk.js.map": "/static/js/3.e5c77fd1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f78674c2.chunk.css.map": "/static/css/2.f78674c2.chunk.css.map",
     "static/css/main.99e3fda0.chunk.css.map": "/static/css/main.99e3fda0.chunk.css.map",
-    "static/js/2.182a8df8.chunk.js.LICENSE.txt": "/static/js/2.182a8df8.chunk.js.LICENSE.txt",
+    "static/js/2.0fcddad4.chunk.js.LICENSE.txt": "/static/js/2.0fcddad4.chunk.js.LICENSE.txt",
     "static/media/angular.png": "/static/media/angular.fd6da4cc.png",
     "static/media/App.css": "/static/media/header.c3fa9cad.jpg",
-    "static/media/catapultsteel.jpg": "/static/media/catapultsteel.c9175fec.jpg",
-    "static/media/cms-portafolio.jpg": "/static/media/cms-portafolio.836ec7c3.jpg",
     "static/media/css3.png": "/static/media/css3.a2fe8f1a.png",
     "static/media/elmaderero.jpg": "/static/media/elmaderero.8a6daa5a.jpg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
@@ -35,10 +33,10 @@
     "static/media/wordpress.png": "/static/media/wordpress.e4628cad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44be3dd9.js",
+    "static/js/runtime-main.a9694654.js",
     "static/css/2.f78674c2.chunk.css",
-    "static/js/2.182a8df8.chunk.js",
+    "static/js/2.0fcddad4.chunk.js",
     "static/css/main.99e3fda0.chunk.css",
-    "static/js/main.90d6ccdb.chunk.js"
+    "static/js/main.d35f1022.chunk.js"
   ]
 }
