@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12de6ad8.css",
+    "main.js": "/static/js/main.a003aeb7.js",
+    "static/js/787.ad4f0170.chunk.js": "/static/js/787.ad4f0170.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/header.jpg": "/static/media/header.b24c62e67e19a3dd16b9.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/catapultsteel.jpg": "/static/media/catapultsteel.c9175fec3d517874e864.jpg",
+    "static/media/briefcaseHeader.jpg": "/static/media/briefcaseHeader.50ce0433946053f24105.jpg",
+    "static/media/contactHeader01.jpeg": "/static/media/contactHeader01.46f929ab8f4a0f357692.jpeg",
+    "static/media/elmaderero.jpg": "/static/media/elmaderero.8bf638b9d3ad657ba5cc.jpg",
+    "static/media/masterisand.jpg": "/static/media/masterisand.a227d10b880fd7596735.jpg",
+    "static/media/smarthome.jpg": "/static/media/smarthome.b2aaa92b4c993ed3d285.jpg",
+    "static/media/nettside.jpg": "/static/media/nettside.ff304da320423d646548.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.5aab373b03063ce731ce.png",
+    "static/media/angular.png": "/static/media/angular.b55b400dd16747db3204.png",
+    "static/media/javascript.png": "/static/media/javascript.1598bcfe16e7a2e54258.png",
+    "static/media/php.png": "/static/media/php.19c1025ebb0067c02ef7.png",
+    "static/media/directMetalBuildings.jpg": "/static/media/directMetalBuildings.11d452deac7a66ce49a2.jpg",
+    "static/media/steelbuildingstores.jpg": "/static/media/steelbuildingstores.1025c5c29f4a1841e0b6.jpg",
+    "static/media/nestjs.png": "/static/media/nestjs.e4f5b289920c1bc7c71f.png",
+    "static/media/react.png": "/static/media/react.eaeb05a604628a1e6abd.png",
+    "static/media/python.png": "/static/media/python.d635929432dc5451df21.png",
+    "static/media/sicoain.jpg": "/static/media/sicoain.6479d3e64a510c04b5d2.jpg",
+    "static/media/html.png": "/static/media/html.1dab7fc7452c5e4becc9.png",
+    "static/media/css3.png": "/static/media/css3.b0e3c5c0b98f5c65f1d5.png",
+    "static/media/nodejs.png": "/static/media/nodejs.db7c2cfdd2ad291c6548.png",
+    "static/media/sicoain-meanstack.jpg": "/static/media/sicoain-meanstack.8969723dda590e85658c.jpg",
+    "static/media/react.svg": "/static/media/react.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.12de6ad8.css.map": "/static/css/main.12de6ad8.css.map",
+    "main.a003aeb7.js.map": "/static/js/main.a003aeb7.js.map",
+    "787.ad4f0170.chunk.js.map": "/static/js/787.ad4f0170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12de6ad8.css",
+    "static/js/main.a003aeb7.js"
+  ]
+}
